@@ -50,8 +50,10 @@
     <Compile Include="MachineHelper.cs" />
     <Compile Include="NetHelper.cs" />
     <Compile Include="NTP.cs" />
+    <Compile Include="OSSetTimeHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SpecialConfigs.cs" />
+    <Compile Include="TimeRefresher.cs" />
     <Compile Include="Userconfig.cs" />
   </ItemGroup>
   <ItemGroup>
