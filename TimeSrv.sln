@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSrvLib", "TimeSrvLib\Ti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{2E3DF5C2-8A38-4A03-86D7-8D463C917E47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSign", "TimeSign\TimeSign.csproj", "{A09BB38A-CA31-475F-B984-96AD80834D15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2E3DF5C2-8A38-4A03-86D7-8D463C917E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E3DF5C2-8A38-4A03-86D7-8D463C917E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E3DF5C2-8A38-4A03-86D7-8D463C917E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A09BB38A-CA31-475F-B984-96AD80834D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A09BB38A-CA31-475F-B984-96AD80834D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A09BB38A-CA31-475F-B984-96AD80834D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A09BB38A-CA31-475F-B984-96AD80834D15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,9 +6,19 @@
         <blocks />
         <tabs>
           <DocumentTab>
+            <name>OSSetTimeHelper.cs</name>
+            <path>TimeSrvLib\OSSetTimeHelper.cs</path>
+            <absolutePath>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\OSSetTimeHelper.cs</absolutePath>
+            <position>
+              <line>17</line>
+              <column>65</column>
+              <lineHash>3YHmXGHVPNfccKxX7psMsdjs6z61893RA72YGIg7tLE=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
             <name>TimeRefresher.cs</name>
-            <path>TimeSrvLib\TimeRefresher.cs</path>
-            <absolutePath>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\TimeRefresher.cs</absolutePath>
+            <path>timesrvlib\timerefresher.cs</path>
+            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\timerefresher.cs</absolutePath>
             <position>
               <line>9</line>
               <column>31</column>
@@ -16,53 +26,33 @@
             </position>
           </DocumentTab>
           <DocumentTab>
-            <name>OSSetTimeHelper.cs</name>
-            <path>timesrvlib\ossettimehelper.cs</path>
-            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\ossettimehelper.cs</absolutePath>
-            <position>
-              <line>11</line>
-              <column>6</column>
-              <lineHash>Khmre1P0wYk4DFble2Uyuxto/NAsaA7+/IYLc3hSzHw=</lineHash>
-            </position>
-          </DocumentTab>
-          <DocumentTab>
-            <name>NtpTest.cs</name>
-            <path>testproject\ntptest.cs</path>
-            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\testproject\ntptest.cs</absolutePath>
-            <position>
-              <line>13</line>
-              <column>33</column>
-              <lineHash>GTrbv8ZZIZpj9YRl/44lo2HcAdNXjgmDtL4o5Ax1SYw=</lineHash>
-            </position>
-          </DocumentTab>
-          <DocumentTab>
-            <name>packages.config</name>
-            <path>testproject\packages.config</path>
-            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\testproject\packages.config</absolutePath>
-            <position>
-              <line>7</line>
-              <column>73</column>
-              <lineHash>IeS4zy7+TMxv/QBoGVGtoLlYg6viaXMoAzwUJPRuj/o=</lineHash>
-            </position>
-          </DocumentTab>
-          <DocumentTab>
-            <name>App.config</name>
-            <path>timesrvnogui\app.config</path>
-            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvnogui\app.config</absolutePath>
-            <position>
-              <line>6</line>
-              <column>71</column>
-              <lineHash>pYocCG1B9ppSfeRQ3CoDPTJj921+cHN17LlqkOMT6V8=</lineHash>
-            </position>
-          </DocumentTab>
-          <DocumentTab>
             <name>Program.cs</name>
             <path>timesrvnogui\program.cs</path>
             <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvnogui\program.cs</absolutePath>
             <position>
-              <line>6</line>
-              <column>1</column>
-              <lineHash>ECtRuXZaVqPomffPDuOOUlH5xQOzV7MwpJGD63sVVgQ=</lineHash>
+              <line>15</line>
+              <column>41</column>
+              <lineHash>henC2p05gg7MarE4krbGRT6fLAprz+NEMK3OykrNAMY=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>NetHelper.cs</name>
+            <path>timesrvlib\nethelper.cs</path>
+            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\nethelper.cs</absolutePath>
+            <position>
+              <line>33</line>
+              <column>14</column>
+              <lineHash>v3mOX6Jk1Zwo+bYfRrmcCwLWKqTrmARL2ePRvFr+1fY=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>NTP.cs</name>
+            <path>timesrvlib\ntp.cs</path>
+            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\ntp.cs</absolutePath>
+            <position>
+              <line>49</line>
+              <column>38</column>
+              <lineHash>QhaL2De/D3Aqeqwu4QDqMsCcydh0FhQQCS8bjPRZ9Sc=</lineHash>
             </position>
           </DocumentTab>
           <DocumentTab>
@@ -76,9 +66,69 @@
             </position>
           </DocumentTab>
           <DocumentTab>
-            <name>MainWindow.xaml.cs</name>
-            <path>timesrv\mainwindow.xaml.cs</path>
-            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrv\mainwindow.xaml.cs</absolutePath>
+            <name>Userconfig.cs</name>
+            <path>timesrvlib\userconfig.cs</path>
+            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\userconfig.cs</absolutePath>
+            <position>
+              <line>1</line>
+              <column>1</column>
+              <lineHash>wUmTe5b3JcEoNGSU+mpFCA91kYj6jcUOdXoO11nCYb0=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Userconfig.ini</name>
+            <path>timesrvlib\userconfig.ini</path>
+            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\userconfig.ini</absolutePath>
+            <position>
+              <line>3</line>
+              <column>29</column>
+              <lineHash>yo1DV3iLz2JDg3XtYlLP1HpgSgiEfoZ4iPy7zMguhs8=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>SpecialConfigs.cs</name>
+            <path>timesrvlib\specialconfigs.cs</path>
+            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\specialconfigs.cs</absolutePath>
+            <position>
+              <line>12</line>
+              <column>53</column>
+              <lineHash>Zsf+yn0vqCsGoSib+6Lzgj82G4BtpfJXYKmhc09yrd0=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>ConfigLoader.cs</name>
+            <path>timesrvlib\configloader.cs</path>
+            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\configloader.cs</absolutePath>
+            <position>
+              <line>31</line>
+              <column>1</column>
+              <lineHash>ECtRuXZaVqPomffPDuOOUlH5xQOzV7MwpJGD63sVVgQ=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>MachineHelper.cs</name>
+            <path>timesrvlib\machinehelper.cs</path>
+            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\machinehelper.cs</absolutePath>
+            <position>
+              <line>9</line>
+              <column>18</column>
+              <lineHash>wc/D1EwE6H26SSEDnMzhAWlSLjLnKgEG9hAw/tCOEJ0=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Config.cs</name>
+            <path>timesrvlib\config.cs</path>
+            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\config.cs</absolutePath>
+            <position>
+              <line>9</line>
+              <column>12</column>
+              <lineHash>iWqpU4MN4NpoB8AUUKgcACA5Sh5Q4SjPB1OgGwedEG8=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>ConfigFileGenerator.cs</name>
+            <path>timesrvlib\configfilegenerator.cs</path>
+            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\configfilegenerator.cs</absolutePath>
             <position>
               <line>1</line>
               <column>1</column>
@@ -96,9 +146,9 @@
             </position>
           </DocumentTab>
           <DocumentTab>
-            <name>ConfigFileGenerator.cs</name>
-            <path>timesrvlib\configfilegenerator.cs</path>
-            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\configfilegenerator.cs</absolutePath>
+            <name>MainWindow.xaml.cs</name>
+            <path>timesrv\mainwindow.xaml.cs</path>
+            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrv\mainwindow.xaml.cs</absolutePath>
             <position>
               <line>1</line>
               <column>1</column>
@@ -106,83 +156,43 @@
             </position>
           </DocumentTab>
           <DocumentTab>
-            <name>Config.cs</name>
-            <path>timesrvlib\config.cs</path>
-            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\config.cs</absolutePath>
+            <name>App.config</name>
+            <path>timesrvnogui\app.config</path>
+            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvnogui\app.config</absolutePath>
+          </DocumentTab>
+          <DocumentTab>
+            <name>packages.config</name>
+            <path>testproject\packages.config</path>
+            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\testproject\packages.config</absolutePath>
+          </DocumentTab>
+          <DocumentTab>
+            <name>NtpTest.cs</name>
+            <path>testproject\ntptest.cs</path>
+            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\testproject\ntptest.cs</absolutePath>
             <position>
-              <line>9</line>
-              <column>12</column>
-              <lineHash>iWqpU4MN4NpoB8AUUKgcACA5Sh5Q4SjPB1OgGwedEG8=</lineHash>
+              <line>13</line>
+              <column>33</column>
+              <lineHash>GTrbv8ZZIZpj9YRl/44lo2HcAdNXjgmDtL4o5Ax1SYw=</lineHash>
             </position>
           </DocumentTab>
           <DocumentTab>
-            <name>NetHelper.cs</name>
-            <path>timesrvlib\nethelper.cs</path>
-            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\nethelper.cs</absolutePath>
+            <name>FileDescription.cs</name>
+            <path>TimeSign\FileDescription.cs</path>
+            <absolutePath>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSign\FileDescription.cs</absolutePath>
             <position>
-              <line>20</line>
-              <column>45</column>
-              <lineHash>I+Eqd8HBawNtL+ermX/yoiSp92S+3CN7exuYdn+rB6w=</lineHash>
-            </position>
-          </DocumentTab>
-          <DocumentTab>
-            <name>MachineHelper.cs</name>
-            <path>timesrvlib\machinehelper.cs</path>
-            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\machinehelper.cs</absolutePath>
-            <position>
-              <line>9</line>
-              <column>18</column>
-              <lineHash>wc/D1EwE6H26SSEDnMzhAWlSLjLnKgEG9hAw/tCOEJ0=</lineHash>
-            </position>
-          </DocumentTab>
-          <DocumentTab>
-            <name>ConfigLoader.cs</name>
-            <path>timesrvlib\configloader.cs</path>
-            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\configloader.cs</absolutePath>
-            <position>
-              <line>31</line>
+              <line>6</line>
               <column>1</column>
               <lineHash>ECtRuXZaVqPomffPDuOOUlH5xQOzV7MwpJGD63sVVgQ=</lineHash>
             </position>
           </DocumentTab>
           <DocumentTab>
-            <name>SpecialConfigs.cs</name>
-            <path>timesrvlib\specialconfigs.cs</path>
-            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\specialconfigs.cs</absolutePath>
+            <name>Sign.cs</name>
+            <path>TimeSign\Sign.cs</path>
+            <absolutePath>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSign\Sign.cs</absolutePath>
             <position>
-              <line>12</line>
-              <column>53</column>
-              <lineHash>Zsf+yn0vqCsGoSib+6Lzgj82G4BtpfJXYKmhc09yrd0=</lineHash>
-            </position>
-          </DocumentTab>
-          <DocumentTab>
-            <name>NTP.cs</name>
-            <path>timesrvlib\ntp.cs</path>
-            <absolutePath>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\ntp.cs</absolutePath>
-            <position>
-              <line>14</line>
-              <column>40</column>
-              <lineHash>FrVVo7weUYTdL7D5HdBnyiHNaNY2xeZdnOENyMcDRxE=</lineHash>
-            </position>
-          </DocumentTab>
-          <DocumentTab>
-            <name>Userconfig.cs</name>
-            <path>TimeSrvLib\Userconfig.cs</path>
-            <absolutePath>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\Userconfig.cs</absolutePath>
-            <position>
-              <line>1</line>
-              <column>1</column>
-              <lineHash>wUmTe5b3JcEoNGSU+mpFCA91kYj6jcUOdXoO11nCYb0=</lineHash>
-            </position>
-          </DocumentTab>
-          <DocumentTab>
-            <name>Userconfig.ini</name>
-            <path>TimeSrvLib\Userconfig.ini</path>
-            <absolutePath>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\Userconfig.ini</absolutePath>
-            <position>
-              <line>3</line>
-              <column>29</column>
-              <lineHash>yo1DV3iLz2JDg3XtYlLP1HpgSgiEfoZ4iPy7zMguhs8=</lineHash>
+              <line>19</line>
+              <column>12</column>
+              <lineHash>6hMe1aTKNSKAUrzns0Vaf9HiUGiuq4NOHzumc17vQUE=</lineHash>
             </position>
           </DocumentTab>
         </tabs>

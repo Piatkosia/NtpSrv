@@ -1,261 +1,303 @@
 <?xml version="1.0" encoding="utf-16"?>
-<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT42M8.8107335S" SolutionTotalViewTime="PT1H21M45.6240655S" SolutionTotalDebugTime="PT1M34.4056758S">
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT49M54.0323543S" SolutionTotalViewTime="PT1H40M16.5726313S" SolutionTotalDebugTime="PT2M9.0285545S">
   <FileVersion>
     <Major>1</Major>
     <Minor>0</Minor>
   </FileVersion>
   <SessionTimeList />
   <LastSessionTimeList>
-    <DevTrackerDataItem ViewActiveTime="PT1.5691167S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT5.4648943S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>C:\Users\piatk\AppData\Local\Temp\80dc54fa-abca-43a3-8c53-f6e287356455.TaskCanvasWndDoc</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName />
-      <CreatedDate>2017-11-30T18:39:43.6177273+01:00</CreatedDate>
+      <CreatedDate>2017-11-30T21:33:53.7809922+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT0.135614S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT0.4333075S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvnogui\App.config</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvNoGui\TimeSrvNoGui.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:00.6273676+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.2771953S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\Class1.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
-      <CreatedDate>2017-11-30T18:39:49.5898417+01:00</CreatedDate>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:04.689252+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT0.1235889S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT0.2081484S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\Config.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
-      <CreatedDate>2017-11-30T18:39:50.0776942+01:00</CreatedDate>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:05.183605+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT0.1891347S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT0.2116524S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\ConfigFileGenerator.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
-      <CreatedDate>2017-11-30T18:39:49.7289583+01:00</CreatedDate>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:04.9689506+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT0.1541163S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT0.2621856S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\ConfigLoader.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
-      <CreatedDate>2017-11-30T18:39:49.9210753+01:00</CreatedDate>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:05.8976442+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT0.1921371S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT22.5599264S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>DateTime.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-11-30T22:04:57.1658911+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT34.6385046S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-11-30T22:09:33.0297051+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.3157435S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\MachineHelper.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
-      <CreatedDate>2017-11-30T18:39:45.8623241+01:00</CreatedDate>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:05.5789011+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT0.7049982S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT19.3583163S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrv\MainWindow.xaml</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrv\TimeSrv.csproj</ProjectName>
-      <CreatedDate>2017-11-30T18:39:48.660178+01:00</CreatedDate>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrv\TimeSrv.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:03.2652381+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT0.2156557S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT0.290708S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrv\MainWindow.xaml.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrv\TimeSrv.csproj</ProjectName>
-      <CreatedDate>2017-11-30T18:39:49.3716866+01:00</CreatedDate>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrv\TimeSrv.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:04.3965435+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT0.2331665S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT13.9223157S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\NetHelper.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
-      <CreatedDate>2017-11-30T18:39:46.2901275+01:00</CreatedDate>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:05.3952538+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT10.622088S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT24.66112S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\NTP.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
-      <CreatedDate>2017-11-30T18:39:46.5247952+01:00</CreatedDate>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:06.3819909+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT7.4203685S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT1.1643283S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\testproject\NtpTest.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TestProject\TestProject.csproj</ProjectName>
-      <CreatedDate>2017-11-30T18:39:45.5811238+01:00</CreatedDate>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TestProject\TestProject.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:33:58.7880541+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT11.6107368S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
+    <DevTrackerDataItem ViewActiveTime="PT1M49.3910331S" EditActiveTime="PT43.7790246S">
+      <ModifiedDate>2017-11-30T22:13:09.6120203+01:00</ModifiedDate>
+      <ModifiedBy>piatk</ModifiedBy>
+      <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\OSSetTimeHelper.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
-      <CreatedDate>2017-11-30T18:39:50.3253905+01:00</CreatedDate>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:33:58.3597494+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT0.3897778S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT0.6409557S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\testproject\packages.config</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TestProject\TestProject.csproj</ProjectName>
-      <CreatedDate>2017-11-30T18:39:45.1898457+01:00</CreatedDate>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TestProject\TestProject.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:33:59.9538835+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1.589494S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
+    <DevTrackerDataItem ViewActiveTime="PT53.2742918S" EditActiveTime="PT2M58.0955842S">
+      <ModifiedDate>2017-11-30T22:09:26.9283246+01:00</ModifiedDate>
+      <ModifiedBy>piatk</ModifiedBy>
+      <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvnogui\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvNoGui\TimeSrvNoGui.csproj</ProjectName>
-      <CreatedDate>2017-11-30T18:39:47.0687014+01:00</CreatedDate>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvNoGui\TimeSrvNoGui.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:01.0631719+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT0.1175752S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT0.2131532S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\SpecialConfigs.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
-      <CreatedDate>2017-11-30T18:39:50.2037848+01:00</CreatedDate>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:06.1658358+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4M16.1181757S" EditActiveTime="PT4M32.6400188S">
-      <ModifiedDate>2017-11-30T21:28:14.7092734+01:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT2M44.5511893S" EditActiveTime="PT4M3.3450048S">
+      <ModifiedDate>2017-11-30T22:07:32.3578395+01:00</ModifiedDate>
       <ModifiedBy>piatk</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\TimeRefresher.cs</Item>
+      <Item>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeRefresher.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
-      <CreatedDate>2017-11-30T18:39:41.8819773+01:00</CreatedDate>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:33:52.153335+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT0.2116511S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT10M16.5732725S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\Userconfig.cs</Item>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\Userconfig.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
-      <CreatedDate>2017-11-30T18:39:46.0559614+01:00</CreatedDate>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:06.6426748+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT0.2196563S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT1M17.1733331S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\Userconfig.ini</Item>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\Userconfig.ini</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
-      <CreatedDate>2017-11-30T18:39:46.8465242+01:00</CreatedDate>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:07.049971+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
   </LastSessionTimeList>
   <TotalTimeList>
-    <DevTrackerDataItem ViewActiveTime="PT1M0.6089483S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT1M6.0738426S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>6</ViewedCount>
+      <ViewedCount>7</ViewedCount>
       <Item>C:\Users\piatk\AppData\Local\Temp\80dc54fa-abca-43a3-8c53-f6e287356455.TaskCanvasWndDoc</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName />
       <CreatedDate>2017-11-21T14:32:51.8263072+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT10.8388798S" EditActiveTime="PT3.6992872S">
+    <DevTrackerDataItem ViewActiveTime="PT11.2721873S" EditActiveTime="PT3.6992872S">
       <ModifiedDate>2017-11-30T17:45:41.0640159+01:00</ModifiedDate>
       <ModifiedBy>piatk</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvNoGui\App.config</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvNoGui\TimeSrvNoGui.csproj</ProjectName>
       <CreatedDate>2017-11-30T17:45:29.5200852+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT7M13.8243068S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT7M14.1015021S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>6</ViewedCount>
+      <ViewedCount>7</ViewedCount>
       <Item>c:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\Class1.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>c:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
       <CreatedDate>2017-11-21T14:45:26.2198487+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M1.1820033S" EditActiveTime="PT1.4746586S">
+    <DevTrackerDataItem ViewActiveTime="PT2M1.3901517S" EditActiveTime="PT1.4746586S">
       <ModifiedDate>2017-11-29T18:32:03.1357815+01:00</ModifiedDate>
       <ModifiedBy>piatk</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>5</ViewedCount>
+      <ViewedCount>6</ViewedCount>
       <Item>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\Config.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
       <CreatedDate>2017-11-29T18:18:02.4864416+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT24.913403S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT25.1250554S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>5</ViewedCount>
+      <ViewedCount>6</ViewedCount>
       <Item>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\ConfigFileGenerator.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
       <CreatedDate>2017-11-29T18:26:20.1948674+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT7M34.4689574S" EditActiveTime="PT11M19.4933243S">
+    <DevTrackerDataItem ViewActiveTime="PT7M34.731143S" EditActiveTime="PT11M19.4933243S">
       <ModifiedDate>2017-11-29T19:36:58.7194591+01:00</ModifiedDate>
       <ModifiedBy>piatk</ModifiedBy>
       <EditedCount>2</EditedCount>
-      <ViewedCount>5</ViewedCount>
+      <ViewedCount>6</ViewedCount>
       <Item>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\ConfigLoader.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
       <CreatedDate>2017-11-29T18:17:12.1947545+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M34.4056758S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT22.5599264S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>2</ViewedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>DateTime.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-11-30T22:04:57.1658911+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M9.0285545S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>3</ViewedCount>
       <Item>Debug Mode</Item>
       <ItemType>DebugModeItem</ItemType>
       <ProjectName />
@@ -282,31 +324,31 @@
       <CreatedDate>2017-11-29T19:06:48.6109252+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT9.6655629S" EditActiveTime="PT8.3692878S">
+    <DevTrackerDataItem ViewActiveTime="PT9.9813064S" EditActiveTime="PT8.3692878S">
       <ModifiedDate>2017-11-29T19:24:27.2068412+01:00</ModifiedDate>
       <ModifiedBy>piatk</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>4</ViewedCount>
+      <ViewedCount>5</ViewedCount>
       <Item>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\MachineHelper.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
       <CreatedDate>2017-11-29T19:24:13.2794328+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT56.6529507S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT1M16.011267S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>6</ViewedCount>
+      <ViewedCount>7</ViewedCount>
       <Item>c:\users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrv\MainWindow.xaml</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>c:\users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrv\TimeSrv.csproj</ProjectName>
       <CreatedDate>2017-11-21T14:32:51.6701965+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT23.3017536S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT23.5924616S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>5</ViewedCount>
+      <ViewedCount>6</ViewedCount>
       <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrv\MainWindow.xaml.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrv\TimeSrv.csproj</ProjectName>
@@ -323,107 +365,108 @@
       <CreatedDate>2017-11-29T18:55:37.6921273+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M46.9576496S" EditActiveTime="PT4M23.4525686S">
+    <DevTrackerDataItem ViewActiveTime="PT3M0.8799653S" EditActiveTime="PT4M23.4525686S">
       <ModifiedDate>2017-11-29T19:15:06.8760507+01:00</ModifiedDate>
       <ModifiedBy>piatk</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>4</ViewedCount>
+      <ViewedCount>5</ViewedCount>
       <Item>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\NetHelper.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
       <CreatedDate>2017-11-29T18:55:06.7806018+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT12M33.124117S" EditActiveTime="PT10M12.4523699S">
+    <DevTrackerDataItem ViewActiveTime="PT12M57.785237S" EditActiveTime="PT10M12.4523699S">
       <ModifiedDate>2017-11-29T20:07:06.5544851+01:00</ModifiedDate>
       <ModifiedBy>piatk</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>4</ViewedCount>
+      <ViewedCount>5</ViewedCount>
       <Item>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\NTP.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
       <CreatedDate>2017-11-29T18:47:56.5506782+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5M31.2852964S" EditActiveTime="PT2M21.2680609S">
+    <DevTrackerDataItem ViewActiveTime="PT5M32.4496247S" EditActiveTime="PT2M21.2680609S">
       <ModifiedDate>2017-11-29T20:02:22.0535968+01:00</ModifiedDate>
       <ModifiedBy>piatk</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>4</ViewedCount>
+      <ViewedCount>5</ViewedCount>
       <Item>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TestProject\NtpTest.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TestProject\TestProject.csproj</ProjectName>
       <CreatedDate>2017-11-29T19:34:11.9885637+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT14M27.3023049S" EditActiveTime="PT7M19.0873871S">
-      <ModifiedDate>2017-11-30T17:38:50.3290998+01:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT16M16.693338S" EditActiveTime="PT8M2.8664117S">
+      <ModifiedDate>2017-11-30T22:13:09.6120203+01:00</ModifiedDate>
       <ModifiedBy>piatk</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>2</ViewedCount>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>3</ViewedCount>
       <Item>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\OSSetTimeHelper.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
       <CreatedDate>2017-11-30T15:37:02.4461459+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M24.0198174S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT2M24.6607731S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>3</ViewedCount>
+      <ViewedCount>4</ViewedCount>
       <Item>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TestProject\packages.config</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TestProject\TestProject.csproj</ProjectName>
       <CreatedDate>2017-11-29T19:35:16.008968+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3M21.0780624S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>6</ViewedCount>
+    <DevTrackerDataItem ViewActiveTime="PT4M14.3523542S" EditActiveTime="PT2M58.0955842S">
+      <ModifiedDate>2017-11-30T22:09:26.9283246+01:00</ModifiedDate>
+      <ModifiedBy>piatk</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>7</ViewedCount>
       <Item>c:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvNoGui\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>c:\Users\piatk\documents\visual studio 2015\Projects\TimeSrv\TimeSrvNoGui\TimeSrvNoGui.csproj</ProjectName>
       <CreatedDate>2017-11-21T14:44:36.7653637+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M14.9817191S" EditActiveTime="PT1M19.8462778S">
+    <DevTrackerDataItem ViewActiveTime="PT1M15.1948723S" EditActiveTime="PT1M19.8462778S">
       <ModifiedDate>2017-11-29T18:32:54.0777759+01:00</ModifiedDate>
       <ModifiedBy>piatk</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>5</ViewedCount>
+      <ViewedCount>6</ViewedCount>
       <Item>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\SpecialConfigs.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
       <CreatedDate>2017-11-29T18:31:22.3334748+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT15M24.5605508S" EditActiveTime="PT4M34.7445195S">
-      <ModifiedDate>2017-11-30T21:28:14.7092734+01:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT18M9.1117401S" EditActiveTime="PT8M38.0895243S">
+      <ModifiedDate>2017-11-30T22:07:32.3578395+01:00</ModifiedDate>
       <ModifiedBy>piatk</ModifiedBy>
-      <EditedCount>2</EditedCount>
-      <ViewedCount>2</ViewedCount>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>3</ViewedCount>
       <Item>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeRefresher.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
       <CreatedDate>2017-11-30T17:50:04.8369125+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT28.7714911S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT10M45.3447636S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>4</ViewedCount>
+      <ViewedCount>5</ViewedCount>
       <Item>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\Userconfig.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
       <CreatedDate>2017-11-29T18:58:22.4265243+01:00</CreatedDate>
       <ViewedBy>piatk</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M8.5038015S" EditActiveTime="PT24.9229918S">
+    <DevTrackerDataItem ViewActiveTime="PT2M25.6771346S" EditActiveTime="PT24.9229918S">
       <ModifiedDate>2017-11-29T18:57:37.7948469+01:00</ModifiedDate>
       <ModifiedBy>piatk</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>4</ViewedCount>
+      <ViewedCount>5</ViewedCount>
       <Item>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\Userconfig.ini</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
@@ -432,6 +475,219 @@
     </DevTrackerDataItem>
   </TotalTimeList>
   <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT34.6228787S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-11-30T22:09:33.0297051+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT22.5599264S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>DateTime.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-11-30T22:04:57.1658911+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M17.1733331S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\Userconfig.ini</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:07.049971+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10M16.5732725S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\Userconfig.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:06.6426748+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT24.66112S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\NTP.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:06.3819909+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.2131532S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\SpecialConfigs.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:06.1658358+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.2621856S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\ConfigLoader.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:05.8976442+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.3157435S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\MachineHelper.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:05.5789011+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.9223157S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\NetHelper.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:05.3952538+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.2081484S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\Config.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:05.183605+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.2116524S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\ConfigFileGenerator.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:04.9689506+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.2771953S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\Class1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:04.689252+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.290708S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrv\MainWindow.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrv\TimeSrv.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:04.3965435+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT19.3583163S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrv\MainWindow.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrv\TimeSrv.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:03.2652381+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT53.2742918S" EditActiveTime="PT2M58.0955842S">
+      <ModifiedDate>2017-11-30T22:09:26.9283246+01:00</ModifiedDate>
+      <ModifiedBy>piatk</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvnogui\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvNoGui\TimeSrvNoGui.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:01.0631719+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.4333075S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvnogui\App.config</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvNoGui\TimeSrvNoGui.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:34:00.6273676+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.6409557S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\testproject\packages.config</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TestProject\TestProject.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:33:59.9538835+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.1643283S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\testproject\NtpTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TestProject\TestProject.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:33:58.7880541+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M49.3910331S" EditActiveTime="PT43.7790246S">
+      <ModifiedDate>2017-11-30T22:13:09.6120203+01:00</ModifiedDate>
+      <ModifiedBy>piatk</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\users\piatk\documents\visual studio 2015\projects\timesrv\timesrvlib\OSSetTimeHelper.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:33:58.3597494+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.4648943S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\piatk\AppData\Local\Temp\80dc54fa-abca-43a3-8c53-f6e287356455.TaskCanvasWndDoc</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-11-30T21:33:53.7809922+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M44.5511893S" EditActiveTime="PT4M3.3450048S">
+      <ModifiedDate>2017-11-30T22:07:32.3578395+01:00</ModifiedDate>
+      <ModifiedBy>piatk</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeRefresher.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\piatk\Documents\Visual Studio 2015\Projects\TimeSrv\TimeSrvLib\TimeSrvLib.csproj</ProjectName>
+      <CreatedDate>2017-11-30T21:33:52.153335+01:00</CreatedDate>
+      <ViewedBy>piatk</ViewedBy>
+    </DevTrackerDataItem>
     <DevTrackerDataItem ViewActiveTime="PT11.6107368S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
