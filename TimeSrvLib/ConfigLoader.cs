@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TimeSrvLib
 {
-    class ConfigLoader
+    public class ConfigLoader
     {
         public Config Load(string ConfigPath, bool localfile = true)
         {

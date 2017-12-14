@@ -40,9 +40,6 @@ namespace TimeSign
                     description.Checksum = BitConverter.ToString(hash).Replace("-", "").ToLowerInvariant();
                 }
             }
-
-            //podpisz go i zapisz do pliku
-            //zwróć ścieżkę dostępu do pliku
             return description;
         }
     }

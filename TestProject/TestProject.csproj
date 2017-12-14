@@ -62,6 +62,7 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
+    <Compile Include="ConfigLoaderTests.cs" />
     <Compile Include="NtpTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

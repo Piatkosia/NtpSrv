@@ -14,7 +14,7 @@ namespace MMINI
     // Created out of '\Userconfig.ini'
     public class Userconfig
     {
-        public const string SOURCE_INI_FILE = "C:\\Users\\piatk\\Documents\\Visual Studio 2015\\Projects\\TimeSrv\\TimeSrvLib\\Userconfi" +
+        public const string SOURCE_INI_FILE = "C:\\Users\\piatk\\documents\\visual studio 2015\\Projects\\TimeSrv\\TimeSrvLib\\Userconfi" +
             "g.ini";
         public const string SERVERS = "SERVERS";
     }
